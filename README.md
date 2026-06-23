@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-Automation and Instrumentation Engineer with **7+ years** of hands-on experience in PLC, SCADA, HMI, industrial automation, and testing systems across **beverage, utilities, manufacturing, aerospace, defense, and biomedical** sectors.
+Automation and Instrumentation Engineer with **9+ years** of hands-on experience in PLC, SCADA, HMI, industrial automation, and testing systems across **beverage, utilities, manufacturing, aerospace, defense, and biomedical** sectors.
 
 - 🔭 Currently: **Power and Automation Engineer** at M. B. Control & Systems Pvt. Ltd.
 - 🌱 **M.Tech in Instrumentation & Control Engineering** — Calcutta University (2025)
