@@ -13,8 +13,8 @@
 
 Automation and Instrumentation Engineer with **7+ years** of hands-on experience in PLC, SCADA, HMI, industrial automation, and testing systems across **beverage, utilities, manufacturing, aerospace, defense, and biomedical** sectors.
 
-- 🔭 Currently: **Sr. Automation Engineer** at Electro Meter Corporation
-- 🌱 Pursuing: **M.Tech in Instrumentation & Control Engineering** — Calcutta University (2025)
+- 🔭 Currently: **Power and Automation Engineer** at M. B. Control & Systems Pvt. Ltd.
+- 🌱 **M.Tech in Instrumentation & Control Engineering** — Calcutta University (2025)
 - 📄 **Springer Publication:** Co-author of research paper on web-based PLC-HMI integration for Industry 4.0 (CIP automation in beverage plant)
 - 💡 Passionate about bridging **industrial automation** with **modern software engineering**
 - 📍 Based in **Chanditala, Hooghly, West Bengal**
@@ -35,7 +35,7 @@ Automation and Instrumentation Engineer with **7+ years** of hands-on experience
 
 ### 💼 Experience
 
-**Sr. Automation Engineer** @ *Electro Meter Corporation* *(Nov 2021 – Present)*
+**Sr. Automation Engineer** @ *Electro Meter Corporation* *(Nov 2021 – May 2026)*
 
 - Designed & commissioned PLC/SCADA/HMI systems for industrial process control across India, Bangladesh & Bhutan
 - Engineered **CIP automation** systems — automated cleaning sequences, tank switching, chemical dosing
@@ -43,6 +43,11 @@ Automation and Instrumentation Engineer with **7+ years** of hands-on experience
 - Developed **computer vision system** (OpenCV + EasyOCR) for locomotive track visualization at Alstom/Indian Railways
 - Implemented **25kV safety monitoring system** for high-voltage loco testing areas
 - Conducted NABL-compliant calibration across utility, oil & gas, mining, and healthcare sectors
+
+**Power and Automation Engineer** @ *M. B. Control & Systems Pvt. Ltd.* *(Jun 2026 – Present)*
+
+- PLC, SCADA & HMI-based automation solutions for industrial control systems
+- Designing and commissioning automation panels and instrumentation systems
 
 **Testing Engineer** @ *Centum Electronics Ltd* *(Jun 2017 – Nov 2020)*
 
